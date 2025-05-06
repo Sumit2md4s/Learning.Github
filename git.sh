@@ -19,3 +19,8 @@ adding second function
 
 d=$b - $a
 
+
+addding third function
+
+e= $a * $b
+
