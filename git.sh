@@ -13,4 +13,9 @@ b=2
 
 c=$a = $b
 
+This is first brach
+
+adding second function 
+
+d=$b - $a
 
