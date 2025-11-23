@@ -10,13 +10,13 @@
 
 
 # Project 1 
-#Addition of three numbers
+#Addition of five numbers
 
-x=a+b+c
+x=a+b+c+d=e
 
-#Adding new functinality for multiplying two numbers
+#Adding new functinality for multiplying three numbers
 
-y=c*d
+y=c*d*e
 
 #Adding futher code for division of two numbers
 
