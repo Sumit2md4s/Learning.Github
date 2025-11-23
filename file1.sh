@@ -9,14 +9,16 @@
 
 
 
-# Project 1 
-#Addition of four numbers
+# Project 1
+#Addition of five numbers
 
-x=a+b+c+D
+x=a+b+c+d+e
 
-#Adding new functinality for multiplying two numbers
 
-y=c*d
+#Adding new functinality for multiplying three numbers
+
+
+y=c*d*e
 
 #Adding futher code for division of two numbers
 
