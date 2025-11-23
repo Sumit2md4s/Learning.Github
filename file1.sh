@@ -12,7 +12,7 @@
 # Project 1 
 #Addition of four numbers
 
-x=a+b+c=D
+x=a+b+c+D
 
 #Adding new functinality for multiplying two numbers
 
