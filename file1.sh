@@ -10,9 +10,9 @@
 
 
 # Project 1 
-#Addition of three numbers
+#Addition of four numbers
 
-x=a+b+c
+x=a+b+c=D
 
 #Adding new functinality for multiplying two numbers
 
