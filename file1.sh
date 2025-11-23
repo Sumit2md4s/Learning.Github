@@ -14,3 +14,6 @@
 
 x=a+b
 
+#Adding new functinality for multiplying two numbers
+
+y=c*d
