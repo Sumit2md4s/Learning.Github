@@ -10,9 +10,9 @@
 
 
 # Project 1
-#Addition of six numbers
+#Addition of seven numbers
 
-x=a+b+c+d+e
+x=a+b+c+d+k+k+e
 
 
 #Adding new functinality for multiplying three numbers
