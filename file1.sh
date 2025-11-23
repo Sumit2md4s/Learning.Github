@@ -13,8 +13,6 @@
 #Addition of five numbers
 
 x=a+b+c+d+e
-#Adding new functinality for multiplying three numbers
-
 
 #Adding new functinality for multiplying three numbers
 
