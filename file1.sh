@@ -12,8 +12,7 @@
 # Project 1 
 #Addition of five numbers
 
-x=a+b+c+d=e
-
+x=a+b+c+d+e
 #Adding new functinality for multiplying three numbers
 
 y=c*d*e
