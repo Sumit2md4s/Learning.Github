@@ -17,3 +17,8 @@ x=a+b
 #Adding new functinality for multiplying two numbers
 
 y=c*d
+
+#Adding futher code for division of two numbers
+
+z=x/y
+
