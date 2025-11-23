@@ -12,7 +12,7 @@
 # Project 1
 #Addition of six numbers
 
-x=a+b+c+d+e
+x=a+b+c+d+e+f
 
 
 #Adding new functinality for multiplying three numbers
