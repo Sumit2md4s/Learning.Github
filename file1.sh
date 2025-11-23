@@ -10,7 +10,7 @@
 
 
 # Project 1
-#Addition of five numbers
+#Addition of six numbers
 
 x=a+b+c+d+e
 
