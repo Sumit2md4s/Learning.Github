@@ -12,6 +12,7 @@
 # Project 1
 #Addition of seven numbers
 
+
 x=a+b+c+d+k+k+e
 
 
